@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PAYS</string>
+    <string name="dog_name_1">ANGLETER</string>
+    <string name="dog_name_2">CORE</string>
+    <string name="dog_name_3">RDC</string>
+    <string name="dog_name_4">USA</string>
+    <string name="dog_name_5">FRANCE</string>
+    <string name="dog_name_6">BELGIQUE</string>
+    <string name="dog_name_7">JAPON</string>
+    <string name="dog_name_8">MAROC</string>
+    <string name="dog_name_9">TANZANI</string>
+    <string name="dog_description_1">Berceau de Shakespeare et du thé de l\'après-midi, l\'Angletere est riche en histoire et en culture.</string>
+    <string name="dog_description_2">Divisée en deux nations distinctes, la Corée du Sud est connue pour sa technologie avancée et sa culture pop, tandis que la Corée du Nord est plus isolée.</string>
+    <string name="dog_description_3">Un pays d\'Afrique centrale, riche en ressources naturelles et biodiversité, mais marqué par des défis politiques et sociaux</string>
+    <string name="dog_description_4">Une superpuissance mondiale, célèbre pour sa diversité culturelle, ses innovations technologiques et son influence économique.</string>
+    <string name="dog_description_5">Réputée pour sa cuisine, son art et son histoire, la France est un centre culturel et touristique majeur.</string>
+    <string name="dog_description_6">Connue pour ses chocolats, ses gaufres et ses institutions européennes, la Belgique est un pays multilingue et multiculturel.</string>
+    <string name="dog_description_7">Un mélange fascinant de traditions anciennes et de modernité, le Japon est célèbre pour sa technologie, sa cuisine et ses paysages.</string>
+    <string name="dog_description_8">Un pays d\'Afrique du Nord, riche en histoire et en culture, avec des paysages allant des montagnes de l'Atlas aux dunes du Sahara.</string>
+    <string name="dog_description_9">Abritant le mont Kilimandjaro et le parc national du Serengeti, la Tanzanie est un joyau de la biodiversité africaine.</string>
+    <string name="about">About:</string>
+    <string name="capital_1">Londres / +44</string>
+    <string name="capital_2">Seoul / +82</string>
+    <string name="capital_3">Kinshasa / +243</string>
+    <string name="capital_4">Washington / +1</string>
+    <string name="capital_5">Paris / +33</string>
+    <string name="capital_6">Bruxelles / +32</string>
+    <string name="capital_7">Tokyo / +81</string>
+    <string name="capital_8">Rabat / +212</string>
+    <string name="capital_9">Dodoma / +255</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
